@@ -1,0 +1,52 @@
+
+body {
+background:#A1A1A1;
+}
+.pupa { 
+font-size: 70px;
+color:#B90003;
+text-align: center;
+}
+.svap {
+	font-size: 60px;
+	color:#B90003;
+	text-align: center;
+	padding-left: 570px;
+	
+	
+}
+.ag { 
+	font-size: 32px;
+	color:black;
+text-align: center;
+list-style-type: none;	
+	padding-top: 100px;
+	
+}
+.jj {
+	display: block;
+}
+.ag li {
+	list-style-type: none;	
+}
+
+.pop {
+	background-color: #B90003;
+}
+.pop li {
+	list-style-type: none;
+}
+
+
+
+
+p { 
+text-align: center;
+font-size: 30px;
+color:black;
+}
+a { 
+
+text-decoration: none;
+color:#B90003;
+}
